@@ -1,7 +1,7 @@
 export const WppContact = ()=>{
     return(
-        <div>
-            
+        <div className="fixed">
+            <img src="/assets/wpp.png" alt="" />
         </div>
     )
 }

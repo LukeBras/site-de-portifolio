@@ -5,6 +5,7 @@ import { Experince } from "@/components/Experince";
 import { MyProjects } from "@/components/MyProjects";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
+import { WppContact } from "@/components/WppContact";
 const Page = ()=>{
 
   return(
@@ -16,6 +17,7 @@ const Page = ()=>{
         <MyProjects/>
         <Contact/>
         <Footer/>
+        <WppContact/>
     </div>
   )
 }
