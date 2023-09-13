@@ -9,7 +9,7 @@ import { WppContact } from "@/components/WppContact";
 const Page = ()=>{
 
   return(
-    <div>
+    <div className="flex flex-col">
         <Header/>
         <Banner/>
         <About/>

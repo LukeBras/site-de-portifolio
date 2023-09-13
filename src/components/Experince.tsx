@@ -5,7 +5,7 @@ export const Experince = ()=>{
     return(
         <div className="h-[700px]  flex  items-center flex-col">
             <Title text="Experince"/>
-            <div className="max-w-7xl rounded-lg shadow-2xl border-gray-600 h-[500px] flex justify-between w-full flex-wrap  p-7 m-auto ">
+            <div className="max-w-7xl rounded-lg shadow-2xl border-gray-600 h-[500px] flex justify-between w-full flex-wrap  p-7 m-auto max-[850px]:h-[300px] ">
                 <div className="w-[300px] border-b border-gray-400 h-[100px] flex m-3 p-3 ">
                     <CheckCircleIcon className="mr-3 h-11"/>
                     <div>
