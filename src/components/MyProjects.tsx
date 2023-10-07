@@ -14,7 +14,7 @@ export  const MyProjects = ()=>{
                     <Project img="/assets/estacionamento.jpg" projeto="Estaciomento"/>
                     <Project img="/assets/todo.jpeg" projeto="Todo-list"/>
                     <Project img="/assets/galeria.jpeg" projeto="Galeria de Fotos (Firebase)"/>
-                    <Project img="/assets/site-carros.jpeg" projeto="Galeria de Fotos (Firebase)"/>
+                    <Project img="/assets/site-carros.jpeg" projeto="Site de Carro"/>
 
                 </div>
             </div>
