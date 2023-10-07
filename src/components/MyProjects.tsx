@@ -15,6 +15,7 @@ export  const MyProjects = ()=>{
                     <Project img="/assets/todo.jpeg" projeto="Todo-list"/>
                     <Project img="/assets/galeria.jpeg" projeto="Galeria de Fotos (Firebase)"/>
                     <Project img="/assets/site-carros.jpeg" projeto="Site de Carro"/>
+                    <Project img="/assets/blog.jpeg" projeto="Blog (context) "/>
 
                 </div>
             </div>
