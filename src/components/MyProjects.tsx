@@ -3,7 +3,7 @@ import { Title } from "./Title"
 
 export  const MyProjects = ()=>{
     return(
-        <div className='h-[1300px] mt-[300px]  flex flex-col justify-center items-center mb-[200px] '>
+        <div className=' mt-[300px]  flex flex-col justify-center items-center mb-[200px] '>
             <div className="max-w-[1700px] p-6  justify-between flex flex-wrap  ">
                 <Title text="Projetos"/>
                  <div className=" w-auto  flex flex-wrap justify-between  mt-24  m-auto ">
